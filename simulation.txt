@@ -1,0 +1,2 @@
+roslaunch px4 mavros_posix_sitl.launch
+rosrun drone_navigation drone_navigation.py

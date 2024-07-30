@@ -1,0 +1,3 @@
+cd ~/catkin_ws/src/drone_navigation/scripts
+touch drone_navigation.py
+chmod +x drone_navigation.py

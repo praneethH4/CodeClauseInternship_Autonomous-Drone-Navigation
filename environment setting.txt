@@ -1,0 +1,4 @@
+sudo apt update
+sudo apt install ros-noetic-desktop-full
+sudo apt install ros-noetic-mavros ros-noetic-mavros-extras ros-noetic-mavros-msgs
+sudo apt install ros-noetic-gazebo-ros ros-noetic-gazebo-plugins ros-noetic-gazebo-msgs ros-noetic-gazebo-ros-pkgs

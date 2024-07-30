@@ -1,0 +1,5 @@
+cd ~/catkin_ws/src
+catkin_create_pkg drone_navigation rospy std_msgs mavros_msgs
+cd ~/catkin_ws
+catkin_make
+source devel/setup.bash
